@@ -10,3 +10,6 @@ management:
       exposure:
         include:
         - "*"
+logging:
+  file:
+    name: e://logs//config-client.log
