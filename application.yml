@@ -1,3 +1,6 @@
+user: 
+  firstName: manikandan 
+
 management:
   endpoint:
     health:
