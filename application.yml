@@ -1,6 +1,3 @@
-logging:
-  file:
-    name: e://logs//config-client.log
 
 management:
   endpoint:
