@@ -12,4 +12,4 @@ management:
         - "*"
 logging:
   file:
-    name: d://logs//config-client.log
+    name: e://slogs//config-client.log
